@@ -6,7 +6,8 @@ A modern and user-friendly **Currency Converter** web application that allows us
 
 ## 📸 Preview
 
-![Currency Converter Screenshot](./screenshot.png)
+!![Currency Converter Screenshot](./screenshot.png)
+
 
 ---
 
