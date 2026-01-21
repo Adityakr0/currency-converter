@@ -1,16 +1,60 @@
-# React + Vite
+# 💱 Currency Converter Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and user-friendly **Currency Converter** web application that allows users to convert values between different international currencies in real time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Preview
 
-## React Compiler
+![Currency Converter Screenshot](./screenshot.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌍 Convert between multiple global currencies
+- 🔄 Swap currencies instantly
+- ⚡ Fast and real-time exchange rates
+- 🎨 Clean, modern, and responsive UI
+- 💻 Works across desktop and mobile devices
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript  
+- **Framework/Tooling:** Vite (if used)  
+- **API:** Exchange Rate API  
+- **Version Control:** Git & GitHub
+
+---
+currency-converter/
+├── src/
+├── public/
+├── screenshot.png
+├── package.json
+├── README.md
+
+---
+
+## ▶️ How to Run Locally
+
+1. Clone the repository
+```bash
+git clone https://github.com/Adityakr0/currency-converter.git
+cd currency-converter
+npm run dev
+
+---
+
+## 🚀 Step 3: Push README & Screenshot to GitHub
+
+Run these commands:
+
+```bash
+git add README.md screenshot.png
+git commit -m "Add README and project screenshot"
+git push
+
+## 📂 Project Structure
+
